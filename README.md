@@ -1,1 +1,1 @@
-# -tactical-design-patterns
+# tactical-design-patterns
